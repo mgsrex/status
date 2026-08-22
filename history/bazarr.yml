@@ -1,7 +1,7 @@
 url: https://bazarr.tyrantrepublic.io
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2026-08-21T23:28:20.664Z
+status: down
+code: 502
+responseTime: 30076
+lastUpdated: 2026-08-22T17:44:59.998Z
 startTime: 2026-08-18T15:45:03.092Z
 generator: Upptime <https://github.com/upptime/upptime>
