@@ -1,7 +1,7 @@
 url: https://sonarr.tyrantrepublic.io
-status: down
-code: 503
-responseTime: 315
-lastUpdated: 2026-08-26T02:13:37.254Z
+status: up
+code: 200
+responseTime: 493
+lastUpdated: 2026-08-26T03:18:20.512Z
 startTime: 2026-08-18T15:45:01.730Z
 generator: Upptime <https://github.com/upptime/upptime>
