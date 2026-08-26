@@ -1,7 +1,7 @@
 url: https://prowlarr.tyrantrepublic.io
-status: up
-code: 200
-responseTime: 233
-lastUpdated: 2026-08-25T23:28:46.992Z
+status: down
+code: 502
+responseTime: 297
+lastUpdated: 2026-08-26T02:15:25.999Z
 startTime: 2026-08-18T15:45:03.570Z
 generator: Upptime <https://github.com/upptime/upptime>
