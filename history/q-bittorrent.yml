@@ -1,7 +1,7 @@
 url: https://qbittorrent.tyrantrepublic.io
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2026-09-12T00:58:31.420Z
+status: down
+code: 502
+responseTime: 253
+lastUpdated: 2026-09-12T15:41:08.100Z
 startTime: 2026-08-18T15:45:04.241Z
 generator: Upptime <https://github.com/upptime/upptime>
