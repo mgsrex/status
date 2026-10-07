@@ -16,7 +16,7 @@
     "timeMonth": 156,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-10-07": 327,
+      "2026-10-07": 1174,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -155,21 +155,22 @@
     "url": "https://prowlarr.tyrantrepublic.io",
     "icon": "prowlarr",
     "slug": "prowlarr",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.72%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "97.69%",
-    "time": 431,
-    "timeDay": 477,
-    "timeWeek": 406,
-    "timeMonth": 405,
-    "timeYear": 431,
+    "uptimeYear": "97.72%",
+    "time": 434,
+    "timeDay": 537,
+    "timeWeek": 430,
+    "timeMonth": 410,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2026-08-26": 63,
       "2026-09-13": 1085,
-      "2026-09-12": 499
+      "2026-09-12": 499,
+      "2026-10-07": 0
     }
   },
   {
@@ -177,21 +178,22 @@
     "url": "https://qbittorrent.tyrantrepublic.io",
     "icon": "qbittorrent",
     "slug": "q-bittorrent",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.72%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.39%",
-    "uptimeYear": "97.69%",
-    "time": 225,
-    "timeDay": 348,
-    "timeWeek": 258,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "uptimeYear": "97.72%",
+    "time": 231,
+    "timeDay": 485,
+    "timeWeek": 303,
+    "timeMonth": 237,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2026-08-26": 63,
       "2026-09-13": 1085,
-      "2026-09-12": 499
+      "2026-09-12": 499,
+      "2026-10-07": 0
     }
   }
 ]
